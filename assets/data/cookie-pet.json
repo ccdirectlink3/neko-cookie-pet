@@ -7,7 +7,7 @@
 		"settings": {
 			"animSheet": "pets.neko-cookie-pet",
 			"walkAnims": {
-				"move": "idle",
+				"idle": "idle",
 				"move": "move",
 				"special": "idleSpecial1"
 			}
