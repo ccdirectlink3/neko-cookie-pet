@@ -1,0 +1,10 @@
+{
+	"id": "neko-cookie-hunter",
+	"version": "1.1.0",
+	"description": {
+		"en_US": "A completely custom pet for CrossCode, based on leaCheeseAngry emote, but with some improvements."
+	},
+	"dependencies": {
+		"item-api": "0.2.1"
+	}
+}
